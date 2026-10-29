@@ -1,0 +1,589 @@
+{
+  "303181": {
+    "name": "Ferguson",
+    "header": "14804",
+    "headers": {
+      "14804": 18
+    },
+    "patterns": {
+      "DDDDDDD": 14,
+      "AADDDDDD": 4
+    },
+    "sampleCount": 18,
+    "centers": [
+      {
+        "gl": "52000110",
+        "center": "C240039011",
+        "count": 18
+      }
+    ]
+  },
+  "303184": {
+    "name": "Gensco Inc.",
+    "header": "22660",
+    "headers": {
+      "22660": 133,
+      "303184": 1
+    },
+    "patterns": {
+      "DDDDDDDDD": 134
+    },
+    "sampleCount": 134,
+    "centers": [
+      {
+        "gl": "52000155",
+        "center": "C240039020",
+        "count": 75
+      },
+      {
+        "gl": "52000110",
+        "center": "C240039011",
+        "count": 38
+      },
+      {
+        "gl": "52000155",
+        "center": "C240039011",
+        "count": 12
+      },
+      {
+        "gl": "52000155",
+        "center": "C240039036",
+        "count": 4
+      },
+      {
+        "gl": "52000155",
+        "center": "C240039024",
+        "count": 1
+      },
+      {
+        "gl": "52000155",
+        "center": "C240039000",
+        "count": 1
+      }
+    ]
+  },
+  "303198": {
+    "name": "Johnstone Supply Inc",
+    "header": "44440",
+    "headers": {
+      "44440": 38
+    },
+    "patterns": {
+      "DDDDDDDD-DD": 38
+    },
+    "sampleCount": 38,
+    "centers": [
+      {
+        "gl": "52000110",
+        "center": "C240039011",
+        "count": 17
+      },
+      {
+        "gl": "52000155",
+        "center": "C240039020",
+        "count": 15
+      },
+      {
+        "gl": "52000155",
+        "center": "C240039011",
+        "count": 3
+      },
+      {
+        "gl": "52000155",
+        "center": "C240039024",
+        "count": 1
+      },
+      {
+        "gl": "52000155",
+        "center": "C240039009",
+        "count": 1
+      },
+      {
+        "gl": "52000155",
+        "center": "C240039000",
+        "count": 1
+      }
+    ]
+  },
+  "303217": {
+    "name": "Platt Electric",
+    "header": "176528",
+    "headers": {
+      "176528": 32
+    },
+    "patterns": {
+      "DADDDDD": 14,
+      "DDADDDD": 12,
+      "DDDDDDD": 6
+    },
+    "sampleCount": 32,
+    "centers": [
+      {
+        "gl": "52000155",
+        "center": "C240039020",
+        "count": 17
+      },
+      {
+        "gl": "52000155",
+        "center": "C240039002",
+        "count": 12
+      },
+      {
+        "gl": "52000110",
+        "center": "C240039020",
+        "count": 1
+      },
+      {
+        "gl": "52000110",
+        "center": "C240039024",
+        "count": 1
+      },
+      {
+        "gl": "52000110",
+        "center": "C240039011",
+        "count": 1
+      }
+    ]
+  },
+  "303134": {
+    "name": "City of Everett",
+    "header": "CM HEATING",
+    "headers": {
+      "CM HEATING": 1
+    },
+    "patterns": {
+      "DDDD-AD-A&A-AAA": 1
+    },
+    "sampleCount": 1,
+    "centers": [
+      {
+        "gl": "70000532",
+        "center": "C240039000",
+        "count": 1
+      }
+    ]
+  },
+  "303140": {
+    "name": "City of Lake Forest Park",
+    "header": "CM HEATING",
+    "headers": {
+      "CM HEATING": 1
+    },
+    "patterns": {
+      "DDDD-AD-A&A-AAA": 1
+    },
+    "sampleCount": 1,
+    "centers": [
+      {
+        "gl": "70000532",
+        "center": "C240039000",
+        "count": 1
+      }
+    ]
+  },
+  "303340": {
+    "name": "Washington State Department of Reve",
+    "header": "CM HEATING",
+    "headers": {
+      "CM HEATING": 1
+    },
+    "patterns": {
+      "AD-DDDD-AAAAAAAA": 1
+    },
+    "sampleCount": 1,
+    "centers": [
+      {
+        "gl": "21004137",
+        "center": "P240039000",
+        "count": 1
+      }
+    ]
+  },
+  "303271": {
+    "name": "Bank of America",
+    "header": "CM Heating",
+    "headers": {
+      "CM Heating": 1
+    },
+    "patterns": {
+      "AAA-AA-AAADD": 1
+    },
+    "sampleCount": 1,
+    "centers": [
+      {
+        "gl": "21004522",
+        "center": "P240039000",
+        "count": 1
+      }
+    ]
+  },
+  "303229": {
+    "name": "Seaway Business Park",
+    "header": "CM HEATING",
+    "headers": {
+      "CM HEATING": 1
+    },
+    "patterns": {
+      "AAAAA DDDDD": 1
+    },
+    "sampleCount": 1,
+    "centers": [
+      {
+        "gl": "64010200",
+        "center": "C240039000",
+        "count": 1
+      }
+    ]
+  },
+  "303253": {
+    "name": "Umano Property Management",
+    "header": "CM HEATING",
+    "headers": {
+      "CM HEATING": 1
+    },
+    "patterns": {
+      "AAAAA-DDD": 1
+    },
+    "sampleCount": 1,
+    "centers": [
+      {
+        "gl": "64010200",
+        "center": "C240039000",
+        "count": 1
+      }
+    ]
+  },
+  "303237": {
+    "name": "SRS Property Management",
+    "header": "CM HEATING",
+    "headers": {
+      "CM HEATING": 1
+    },
+    "patterns": {
+      "AAA-DDD": 1
+    },
+    "sampleCount": 1,
+    "centers": [
+      {
+        "gl": "64010200",
+        "center": "C240039000",
+        "count": 1
+      },
+      {
+        "gl": "62000730",
+        "center": "C240039000",
+        "count": 1
+      }
+    ]
+  },
+  "303121": {
+    "name": "Certain Path",
+    "header": "AT08130",
+    "headers": {
+      "AT08130": 6
+    },
+    "patterns": {
+      "AA-DDDDDD": 6
+    },
+    "sampleCount": 6,
+    "centers": [
+      {
+        "gl": "64000170",
+        "center": "C240039104",
+        "count": 6
+      }
+    ]
+  },
+  "303214": {
+    "name": "Paychex",
+    "header": "0944 7022-8373",
+    "headers": {
+      "0944 7022-8373": 3
+    },
+    "patterns": {
+      "DDDDDDDDDD": 3
+    },
+    "sampleCount": 3,
+    "centers": [
+      {
+        "gl": "62000665",
+        "center": "C240039020",
+        "count": 3
+      }
+    ]
+  },
+  "303268": {
+    "name": "Cascade Cleaning Co",
+    "header": "CM HEATING",
+    "headers": {
+      "CM HEATING": 4
+    },
+    "patterns": {
+      "AAA-DDDD": 4
+    },
+    "sampleCount": 4,
+    "centers": [
+      {
+        "gl": "64010220",
+        "center": "C240039102",
+        "count": 4
+      }
+    ]
+  },
+  "303167": {
+    "name": "Crystal Springs",
+    "header": "8750257714",
+    "headers": {
+      "8750257714": 2
+    },
+    "patterns": {
+      "DDADDDDDDDDDD": 2
+    },
+    "sampleCount": 2,
+    "centers": [
+      {
+        "gl": "64000120",
+        "center": "C240039102",
+        "count": 2
+      }
+    ]
+  },
+  "303301": {
+    "name": "Unum Group Benefits",
+    "header": "CM HEATING",
+    "headers": {
+      "CM HEATING": 1
+    },
+    "patterns": {
+      "AAAA-AAA-DD": 1
+    },
+    "sampleCount": 1,
+    "centers": [
+      {
+        "gl": "14010100",
+        "center": "P240039019",
+        "count": 1
+      }
+    ]
+  },
+  "303122": {
+    "name": "Cintas",
+    "header": "13793025",
+    "headers": {
+      "13793025": 2
+    },
+    "patterns": {
+      "DDDDDDDDDD": 2
+    },
+    "sampleCount": 2,
+    "centers": [
+      {
+        "gl": "62000090",
+        "center": "C240039105",
+        "count": 2
+      }
+    ]
+  },
+  "303199": {
+    "name": "Keller Supply",
+    "header": "20931",
+    "headers": {
+      "215N30": 1,
+      "20931": 5
+    },
+    "patterns": {
+      "ADDDDDDDDD.DDD": 5,
+      "AADDDDDDDD.DDD": 1
+    },
+    "sampleCount": 6,
+    "centers": [
+      {
+        "gl": "52000110",
+        "center": "C240039011",
+        "count": 6
+      }
+    ]
+  },
+  "303212": {
+    "name": "Pacific Plumbing",
+    "header": "58787",
+    "headers": {
+      "58787": 8
+    },
+    "patterns": {
+      "DDDDDDDD": 8
+    },
+    "sampleCount": 8,
+    "centers": [
+      {
+        "gl": "52000155",
+        "center": "C240039036",
+        "count": 4
+      },
+      {
+        "gl": "52000155",
+        "center": "C240039009",
+        "count": 2
+      },
+      {
+        "gl": "52000110",
+        "center": "C240039036",
+        "count": 1
+      },
+      {
+        "gl": "52000155",
+        "center": "C240039011",
+        "count": 1
+      }
+    ]
+  },
+  "303261": {
+    "name": "York International Corp",
+    "header": "32630",
+    "headers": {
+      "32630": 2
+    },
+    "patterns": {
+      "DDDDDDDD-DD": 2
+    },
+    "sampleCount": 2,
+    "centers": [
+      {
+        "gl": "52000110",
+        "center": "C240039011",
+        "count": 2
+      }
+    ]
+  },
+  "303244": {
+    "name": "Thermal Supply, Inc.",
+    "header": "2300",
+    "headers": {
+      "2300": 2
+    },
+    "patterns": {
+      "DDDDDDD": 2
+    },
+    "sampleCount": 2,
+    "centers": [
+      {
+        "gl": "52000110",
+        "center": "C240039011",
+        "count": 1
+      }
+    ]
+  },
+  "303281": {
+    "name": "Best Postcard, Inc",
+    "header": "CM HEATING",
+    "headers": {
+      "CM HEATING": 1
+    },
+    "patterns": {
+      "DDDDDD-A": 1
+    },
+    "sampleCount": 1,
+    "centers": [
+      {
+        "gl": "63000500",
+        "center": "C240039104",
+        "count": 1
+      }
+    ]
+  },
+  "303230": {
+    "name": "Service Titan",
+    "header": "CM HEATING",
+    "headers": {
+      "CM HEATING": 5
+    },
+    "patterns": {
+      "DDDDDDDDD": 5
+    },
+    "sampleCount": 5,
+    "centers": [
+      {
+        "gl": "62000210",
+        "center": "C240039000",
+        "count": 4
+      },
+      {
+        "gl": "62000210",
+        "center": "C240039104",
+        "count": 1
+      }
+    ]
+  },
+  "303131": {
+    "name": "City of Darrington",
+    "header": "CM HEATING",
+    "headers": {
+      "CM HEATING": 1
+    },
+    "patterns": {
+      "DDDD-AD-A&A-AAA": 1
+    },
+    "sampleCount": 1,
+    "centers": [
+      {
+        "gl": "64000300",
+        "center": "C240039000",
+        "count": 1
+      }
+    ]
+  },
+  "303218": {
+    "name": "Puget Sound Energy",
+    "header": "CM HEATING",
+    "headers": {
+      "CM HEATING": 1
+    },
+    "patterns": {
+      "DDDDDDDD-AAADDDD": 1
+    },
+    "sampleCount": 1,
+    "centers": [
+      {
+        "gl": "64010260",
+        "center": "C240039102",
+        "count": 1
+      }
+    ]
+  },
+  "303206": {
+    "name": "Lynnwood Municipal Court",
+    "header": "CM HEATING",
+    "headers": {
+      "CM HEATING": 1
+    },
+    "patterns": {
+      "DDDDDDDDD": 1
+    },
+    "sampleCount": 1,
+    "centers": [
+      {
+        "gl": "12000400",
+        "center": "P240039000",
+        "count": 1
+      }
+    ]
+  },
+  "303163": {
+    "name": "Consolidated Supply",
+    "header": "178841",
+    "headers": {
+      "178841": 1
+    },
+    "patterns": {
+      "ADDDDDDDDD.DDD": 1
+    },
+    "sampleCount": 1,
+    "centers": [
+      {
+        "gl": "52000155",
+        "center": "C240039036",
+        "count": 1
+      }
+    ]
+  }
+}
